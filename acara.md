@@ -22,7 +22,7 @@ Lightning Talk dan Tech Talk
 | 10.55 - 11.30   | Nasrul Alawy             | Ngoding Flutter Jadi Asik Dengan Atomic Designs                          |
 | 11.30 - 12.55   | Peserta                  | Istirahat, Networking, Coffee Break                                      |
 | 13.00 - 13.15   | Lalu Erfandi Maula Yusnu | Introduction to PyTorch 1.3                                              |
-| 13.15 - 13.45   | Lalu Reynaldi            | Enterprise Resource Planning (ERP) in perspective as a software engineer |
+| 13.15 - 13.45   | Lalu Raynaldi Pratama Putra            | Enterprise Resource Planning (ERP) in perspective as a software engineer |
 | 13.45 - 14.15   | Herpiko Dwi Aguno        | Kenalan dengan Kubernetes                                                |
 
 ## Aturan
