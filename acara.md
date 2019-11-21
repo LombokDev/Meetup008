@@ -1,7 +1,7 @@
 ## Waktu
 08 Desember 2019
 ## Lokasi
-Palma Coffee and Resto: https://goo.gl/maps/Mpy5stssUgBnED4L7
+Palma Coffee and Bakery: https://goo.gl/maps/Mpy5stssUgBnED4L7
 ## Link Registrasi
 RSVP dibuka terbatas untuk 60 peserta: http://bit.ly/lombokdevmeetup8
 
