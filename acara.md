@@ -7,7 +7,7 @@ Lightning Talk dan Tech Talk
 | 08.55 - 09.10   | Khairul Imam             | "Kode Impian" Android Developer Dengan Kotlin Coroutine 😄               |
 | 09.10 - 09.25   | Eby Sofyan               | Kotlin coroutine ketemuan sama retrofit dan livedata                     |
 | 09.25 - 09.40   | Lalu Aan                 | Meet Figma! a Sweetspot Developer and Designer                           |
-| 09.40 - 09.55   | Rezky Solihin            | Satu Untuk Semua - Ionic Framework                                       |
+| 09.40 - 09.55   | Rezky Sulihin            | Satu Untuk Semua - Ionic Framework                                       |
 | 09.55 - 10.10   | Darmawan Zulkifli        | Envoy Proxy                                                              |
 | 10.10 - 10.25   | Azhar Rafiq              | Manfaat dan Etika Bisnis Serious Games sebagai Alat Pedagogi di Kampus   |
 | 10.25 - 10.40   | Guntur                   | Distribusi Internet di Indonesia                                         |
