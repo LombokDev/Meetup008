@@ -8,7 +8,7 @@ RSVP dibuka terbatas untuk 60 peserta: http://bit.ly/lombokdevmeetup8
 ## Konsep
 Lightning Talk dan Tech Talk
 ## Susunan acara
-| WAKTU Kegiatan| PEMBICARA                | AGENDA                                                                   |
+| WAKTU KEGIATAN| PEMBICARA                | AGENDA                                                                   |
 |---------------|--------------------------|--------------------------------------------------------------------------| 
 | 08.00-08.50   | Peserta                  | Registrasi Ulang dan Sarapan                                             |
 | 08.55-09.10   | Khairul Imam             | "Kode Impian" Android Developer Dengan Kotlin Coroutine 😄               |
